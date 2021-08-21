@@ -1,0 +1,13 @@
+# Target labels
+ gflags
+# Source files and their labels
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags-complete.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-install.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-mkdir.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-download.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-update.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-patch.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-configure.rule
+C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-build.rule

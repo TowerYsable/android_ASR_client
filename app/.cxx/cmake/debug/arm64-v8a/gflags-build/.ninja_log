@@ -1,0 +1,9 @@
+# ninja log v5
+57	1880	651238867	CMakeFiles/gflags_shared.dir/src/gflags_reporting.cc.o	213e0d34fba6fa20
+327	2214	651238867	CMakeFiles/gflags_nothreads_shared.dir/src/gflags_reporting.cc.o	b2eff4ae2e4c411
+222	2280	651238867	CMakeFiles/gflags_shared.dir/src/gflags_completions.cc.o	e316e7589cafafbb
+428	2549	651238868	CMakeFiles/gflags_nothreads_shared.dir/src/gflags_completions.cc.o	7d49c5cdedca654e
+1	2702	651238868	CMakeFiles/gflags_shared.dir/src/gflags.cc.o	76f118127206cd70
+137	2833	651238868	CMakeFiles/gflags_nothreads_shared.dir/src/gflags.cc.o	897d87c6e6abf417
+2702	3184	651238868	lib/libgflags.so	b3cb03129576a72c
+2834	3374	651238868	lib/libgflags_nothreads.so	9f1ec8286448789b

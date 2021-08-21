@@ -1,0 +1,54 @@
+{
+  "buildFiles": [
+    "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\soft\\sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "D:\\soft\\sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "asr_cc-Release-arm64-v8a": {
+      "artifactName": "asr_cc",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" asr_cc",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libasr_cc.so",
+      "runtimeFiles": []
+    },
+    "gflags-Release-arm64-v8a": {
+      "artifactName": "gflags",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" gflags",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "decoder-Release-arm64-v8a": {
+      "artifactName": "decoder",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" decoder",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\\libdecoder.a",
+      "runtimeFiles": []
+    },
+    "utils-Release-arm64-v8a": {
+      "artifactName": "utils",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" utils",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\\libutils.a",
+      "runtimeFiles": []
+    },
+    "frontend-Release-arm64-v8a": {
+      "artifactName": "frontend",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" frontend",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\\libfrontend.a",
+      "runtimeFiles": []
+    },
+    "decoder_main-Release-arm64-v8a": {
+      "artifactName": "decoder_main",
+      "buildCommand": "D:\\soft\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\" decoder_main",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\tower\\Desktop\\only_ASR\\android_ASR_client\\app\\.cxx\\cmake\\release\\arm64-v8a\\decoder_main",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/CMakeFiles/gflags-complete.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-install.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-download.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-update.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-patch.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-configure.rule"
+		},
+		{
+			"file" : "C:/Users/tower/Desktop/only_ASR/android_ASR_client/app/.cxx/cmake/release/x86/gflags-prefix/src/gflags-stamp/gflags-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gflags"
+		],
+		"name" : "gflags"
+	}
+}
